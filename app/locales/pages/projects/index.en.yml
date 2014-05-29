@@ -13,20 +13,20 @@ en:
         already_joined: 'Already joined? %{link}.'
         sign_in: 'Sign in'
       hero:
-        title: 'Find a Solution for your <strong>financial problem</strong> with Silver Alms.'
-        subtitle: "We can help you to achive your financial goal."
+        title: 'Together, We make them Happier'
+        subtitle: "It’s your platform to share, care and wipe few drops of tears!"
       how-it-works:
         one:
           headline: 'For Companies'
           text: 'Neighbor.ly is the best way to earn golden impressions while doing good in customer communities.'
           button: 'Request a Demo'
         two:
-          headline: 'For Funding'
-          text: "If you are in need of new funding sources, you've come to the right place."
+          headline: 'For funding – Share your story'
+          text: "Are you looking for financial aid to live a bit better? Share your story with the kind-hearted world."
           button: 'Raise Money'
         three:
-          headline: 'To Contribute'
-          text: 'Want to help people in their difficult times and contribute, Welcome to Silver Alms.'
+          headline: 'To contribute – Share your Care'
+          text: 'Do you think you are kind-enough to help a person or save a life? Join SilverAlms and make a difference'
           button: 'Find Projects'
     start_one:
       title: 'Do you or your community need funding?'

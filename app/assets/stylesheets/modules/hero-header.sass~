@@ -1,10 +1,10 @@
 header.hero
   padding: +emCalc(60px) 0
-  min-height: +emCalc(330px)
-  color: black
+  min-height: +emCalc(500px)
+  color: white
   text-shadow: 3px 3px 5px rgba(0,0,0,0.5)
   &, .backstretch
-    background: #f2f2f2
+    background: darken($secondary-color, 30%) image-url('default-bg-hero.jpg') repeat
   &.small
     min-height: +emCalc(200px)
   &.center

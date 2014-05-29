@@ -1,18 +1,25 @@
 en:
   layouts:
     footer:
-      quick_links: 'Good to know...'
-      about: 'Meet the Neighbors'
-      discover: 'Find Projects'
-      start_campaign: 'Start a Campaign'
-      how_it_works: 'How It Works'
+      quick_links: 'Finding Help'
+      about: '<a href="http://siveralms.com/about">About Us</a>'
+      discover: '<a href="http://silveralms.com/discover">Browse</a>'
+      start_campaign: '<a href="http://silveralms.com/start">Send a Request</a>'
+      how_it_works: '<a href="http://silveralms.com/how-it-works">Know How</a>'
       contact: 'Contact Us'
       faq: 'FAQ / Help'
-      legal: 'Privacy Policy'
-      terms: 'Terms of Use'
-      stay_in_touch: "Stay Connected"
+      legal: '<a href="http://silveralms.com/privacy">Our Policies</a>'
+      terms: '<a href="http://silveralms.com/terms">Terms and Conditions</a>'
+      stay_in_touch: "About SilverAlms"
+      how_to_fund: '<a href="http://silveralms.com/how-it-works">How To Fund</a>'
+      payment_options: '<a href="http://silveralms.com">Payment Options</a>
+      assurance: "Assurance"
+      how_to_begin: "How to Begin"
+      receiving_funds: "Receiving Funds"
+      reach_out: "Reach Out"
       built_with_love: 'Copyright @ <a href="http://silveralms.com" target="blank" title="Silver Alms">Silver Alms</a> &nbsp; | &nbsp; <a href="http://comjit.in" target="blank"><img src="assets/comjit.png"></a>'
-      now_accepting_proposals: 'Corporate Address'
+      now_accepting_proposals: 'Helping Others'
+      blog: '<a href="http://blog.silveralms.com">Blog</a>'
       now_accepting_proposals_text: 'Address Line 1'
       now_accepting_proposals_text1: 'Address Line 2'
       now_accepting_proposals_text2: 'City, State'

@@ -22,7 +22,7 @@ puts 'Seeding the database...'
   company_name: 'Silver Alms',
   company_logo: 'http://silveralms.com/assets/catarse_bootstrap/logo_icon_catarse.png',
   host: 'silveralms.com',
-  base_url: "http://silveralms.com",
+  base_url: "http://localhost:3000",
 
   email_contact: 'contact@silveralms.com',
   email_payments: 'finance@silveralms.com',
@@ -36,7 +36,7 @@ puts 'Seeding the database...'
   mailchimp_url: "http://ownmanager.us8.list-manage1.com/subscribe?u=9f171110a102fc24feed06f24&id=1df03ad4dd",
   catarse_fee: '0.10',
   support_forum: 'http://support.silveralms.com',
-  base_domain: 'silveralms.com',
+  base_domain: 'localhost:3000',
   uservoice_secret_gadget: 't4YVh1DqPV4t99sFoAUv9wL2XY137LRjbD6gfyN0CtA',
   uservoice_key: 'CFL6GwuDuCmFpfAQhe8AA',
   faq_url: 'http://support.silveralms.com',

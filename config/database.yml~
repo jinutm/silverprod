@@ -10,12 +10,22 @@
 #       Install PostgreSQL and put its /bin directory on your path.
 development:
   adapter: postgresql
-  encoding: unicode
+  encoding: utf-8
   host: localhost
-  database: silveralmsrepo_development
+  database: jimal_development
   pool: 5
-  username: postgres
-  password: password
+  username: jimal
+  password: jimal12187557
+  port: 5432
+
+production:
+  adapter: postgresql
+  encoding: utf-8
+  host: localhost
+  database: silverme_development
+  pool: 5
+  username: hanuman
+  password: jaihanuman12187557
   port: 5432
 
 
@@ -42,7 +52,7 @@ test:
   adapter: postgresql
   encoding: unicode
   host: localhost
-  database: silveralmsrepo_test
+  database: jimal_test
   pool: 5
   username: postgres
   password: password
